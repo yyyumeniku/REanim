@@ -1,6 +1,6 @@
 {
-	"pack": {
-		"description": "${mod_name} Resources",
-		"pack_format": 3
-	}
+  "pack": {
+    "description": "REanim Resources",
+    "pack_format": 3
+  }
 }
